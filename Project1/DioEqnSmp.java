@@ -1,6 +1,6 @@
 /**
  * filename: DioEqnSmp.java
- * This is the parallel version of calculating the possible values of the given equation.
+ * This is the parallel version of calculating the  possible values of the given equation.
  * 
  * @author Saurabh A. Wani (saw4058@rit.edu)
  */
