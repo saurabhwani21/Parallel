@@ -1,6 +1,6 @@
 /*
  * filename: KMedoids.java
- * Author: Saurabh A. Wani
+ * Author: Saurabh A. Wani 
  * This file calculates the best solution of K-medoids clustering for given points. 
  */
 
