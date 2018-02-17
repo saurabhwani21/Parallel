@@ -1,6 +1,6 @@
 
 /**
- * Class Point encapsulates a 3-D point.
+ * Class Point encapsulates a  3-D point.
  *
  * @author  Alan Kaminsky
  * @version 10-Oct-2016
